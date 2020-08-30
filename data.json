@@ -1,0 +1,49 @@
+{
+    "projects":[
+        {
+            "id": 1,
+            "project_name": "Random Quotes Generator",
+            "description": "Create an app that displays random famous quotes each time a button is clicked,This project is a fun and effective way to practice basic JavaScript skills while also creating a simple interactive portfolio piece to showcase understanding of JavaScript fundamentals",
+            "technologies": ["JavaScript","HTML","CSS"],
+            "live_link":"http://shuminzhou.com/fsjs_project1/",
+            "github_link":"https://github.com/nickchow2020/FSJS_random_quotes_generator.git",
+            "image_urls":["/static/images/project1_main.png","/static/images/project1_side1.png","/static/images/project1_side2.png","/static/images/project1_side3.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "List Pagination And Filtering",
+            "description": "Create an use a common web development technique known as 'pagination' to enhance the usability of a web page",
+            "technologies": ["JavaScript","HTML","CSS"],
+            "live_link":"http://nickchow2020.github.io/FSJS_list_pagination_and_filtering",
+            "github_link":"https://github.com/nickchow2020/FSJS_list_pagination_and_filtering.git",
+            "image_urls":["/static/images/project2_main.png","/static/images/project2_side1.png","/static/images/project2_side2.png","/static/images/project2_side3.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "Interactive Form",
+            "description": " Create and use JavaScript to enhance an interactive registration form for a fictional conference called 'FullStack Conf'.",
+            "technologies": ["JavaScript","HTML","CSS"],
+            "live_link":"http://nickchow2020.github.io/FSJS_interactive_form",
+            "github_link":"https://github.com/nickchow2020/FSJS_interactive_form.git",
+            "image_urls":["/static/images/project3_main.png","/static/images/project3_side1.png","/static/images/project3_side2.png","/static/images/project3_side3.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Object Oriented Programming Game Show App",
+            "description": "Create a browser-based, word guessing game: 'Phrase Hunter.' You’ll use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+            "technologies": ["JavaScript","HTML","CSS","Object Oriented Programming"],
+            "live_link":"http://nickchow2020.github.io/FSJS_oop_game_show_app",
+            "github_link":"https://github.com/nickchow2020/FSJS_oop_game_show_app.git",
+            "image_urls":["/static/images/project4_main.png","/static/images/project4_side1.png","/static/images/project4_side2.png","/static/images/project4_side3.png"]
+        },
+        {
+            "id": 5,
+            "project_name": "Public Api Requests",
+            "description": "build an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. The api request a smart way for employees to share contact information with each other.",
+            "technologies": ["JavaScript","HTML","CSS","APIs","JSON"],
+            "live_link":"http://nickchow2020.github.io/FSJS_oop_game_show_app",
+            "github_link":"http://nickchow2020.github.io/FSJS_public_api_requests",
+            "image_urls":["/static/images/project5_main.png","/static/images/project5_side1.png","/static/images/project5_side2.png","/static/images/project5_side3.png"]
+        }
+    ]
+}
