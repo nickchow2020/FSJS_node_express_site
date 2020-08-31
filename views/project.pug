@@ -6,27 +6,16 @@ block content
   article.grid-container.portfolio-intro.portfolio-project
     .grid-x
       .cell.small-6.medium-9.large-9
-
-        
         h1 #{projectData.project_name}
-
-
         p.lead.text-light
           | #{projectData.description}
-
       .cell.portfolio-meta.small-6.medium-2.large-3
         h6 Technologies
-
-
         ul
           each lis in projectData.technologies
             li=lis
-
-
         a.button.expanded(href=`${projectData.live_link}` target="_blank") Live Demo
         a.button.expanded(href=`${projectData.github_link}` target="_blank") GitHub Repo
-    
-
     img.image(src=`${projectData.image_urls[1]}`)
     img.image(src=`${projectData.image_urls[2]}`)
     img.image(src=`${projectData.image_urls[3]}`)
