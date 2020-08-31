@@ -16,4 +16,4 @@
     * Add a project image transform property to scale to 1.05.
     * add project image transform animation duration to .5s.
  # Runs npm start
-  if you prefer to runs the app with "npm start",be sure to install the modules first with comments "npm install" 
+  if you prefer to runs the app with "npm start",be sure to install the modules first with commands "npm install" 
