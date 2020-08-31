@@ -1,0 +1,7 @@
+extends layout
+block content
+    h1(class="padding") #{error.message}
+    h3(class="padding") Error Code:#{error.status}
+    a(href="/" class="padding link") Back To Home Page
+    p(class="padding stack") 
+        |#{error.stack} 

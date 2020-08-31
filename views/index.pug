@@ -23,6 +23,6 @@ block content
 
       each data in datas
         .cell 
-          a(href=`/project/${data.id}`)
+          a(href=`/project/${data.id}` target="_blank")
             img.thumbnail(src=`${data.image_urls[0]}`)
             h5 #{data.project_name}

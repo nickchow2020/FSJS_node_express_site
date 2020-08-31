@@ -148,3 +148,19 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+.padding{
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+.stack{
+  color: red;
+  font-weight: bold;
+}
+
+.link{
+  color: green;
+  font-size: 1.5rem;
+  font-weight: bold;
+}

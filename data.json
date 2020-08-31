@@ -41,8 +41,8 @@
             "project_name": "Public Api Requests",
             "description": "build an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. The api request a smart way for employees to share contact information with each other.",
             "technologies": ["JavaScript","HTML","CSS","APIs","JSON"],
-            "live_link":"http://nickchow2020.github.io/FSJS_oop_game_show_app",
-            "github_link":"http://nickchow2020.github.io/FSJS_public_api_requests",
+            "live_link":"http://nickchow2020.github.io/FSJS_public_api_requests",
+            "github_link":"https://github.com/nickchow2020/FSJS_public_api_requests.git",
             "image_urls":["/static/images/project5_main.png","/static/images/project5_side1.png","/static/images/project5_side2.png","/static/images/project5_side3.png"]
         }
     ]
